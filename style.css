@@ -1,0 +1,7 @@
+ /* Basic styling (you can customize this) */
+ body {
+    font-family: sans-serif; 
+}
+ #recognition-result { 
+    margin-top: 10px; font-weight: bold; 
+}
